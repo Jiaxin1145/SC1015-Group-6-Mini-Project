@@ -58,7 +58,5 @@ Logistics Regression
 3. Improve customer satisfaction
 ### References
 Dharmavarapu H. R. S. S. S. S. Manikanth. (2020). Impact of the Online Customer Reviews in Consumer’s Food Ordering Decision for the Online Food Delivery Service Apps. International Journal of Advanced Science and Technology, 29(5s), 2692-2703. Retrieved from [http://sersc.org/journals/index.php/IJAST/article/view/22864](http://sersc.org/journals/index.php/IJAST/article/view/22864)
-
-Zippia. "18+ Food Delivery Statistics (2023). Online Ordering Industry Numbers You Need To Know" Zippia.com. Feb. 28, 2023, [https://www.zippia.com/advice/food-delivery-industry-statistics/](https://www.zippia.com/advice/food-delivery-industry-statistics/)
-
+Zippia. 18+ Food Delivery Statistics (2023). Online Ordering Industry Numbers You Need To Know. Retrieved from [https://www.zippia.com/advice/food-delivery-industry-statistics/](https://www.zippia.com/advice/food-delivery-industry-statistics/)
 Sruthi, E. R. (2024). Understand Random Forest Algorithms With Examples. Retrieved from[https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
