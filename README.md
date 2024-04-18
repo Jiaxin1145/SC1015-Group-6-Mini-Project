@@ -12,3 +12,7 @@ The presentation video can be found [here] (insert link)
 1. onlinefoods.csv
 2. Mini Project Slides.pdf
 3. [SC1015 Mini Project Group 6.ipynb](https://github.com/Jiaxin1145/SC1015-Group-6-Mini-Project/blob/main/SC1015%20Mini%20Project%20Group%206.ipynb)
+   - Data preparation and cleaning
+   - Basic visualisation
+   - Exploratory Data Analysis
+   - Machine Learning
