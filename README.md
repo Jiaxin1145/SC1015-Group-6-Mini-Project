@@ -1,4 +1,4 @@
-# SC1015-Group-6-Mini-Project
+# SC1015 Group 6 Mini Project
 For our mini project in SC1015 Introduction to Data Science and Artificial Intelligence, we analysed on the Online Food [Dataset](https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset/data) from kaggle.
 ### Problem Definition
 The objective of this project is to develop a predictive model that optimise online food order feedback by encouraging more positive ratings and minimise negative ratings. By analysing various factors influencing customer feedback, the goal is to identify strategies to increase overall positive feedback rates on the platform.
@@ -36,5 +36,24 @@ Logistics Regression
    - Confusion Matrix
    - recall, precision, f1 score
 ## Conclusion
+Machine Learning Comparisons
+Random Forest
+- The models show moderate accuracy in predicting feedback with the numerical variables
+- Both age and family size models perform similarly, with no clear winner in predicting feedback given
+Logistics Regression
+- The has a high accuracy of approximately 83% on average. This indicates that the model generalises well to unseen data
+- The model ranks the importance of categorical predictors based on their coefficients
+- Precision for positive feedback is quite high at 86%
+### What have we learnt from this project?
+1. Random Forest Model
+2. Justify the suitability of a model based on readings from classification report
+3. Understanding of real world application of machine learning in addressing business problems
+4. Using a new machine learning function: random forest
+### Outcomes of our project
+1. Online food ordering companies can use our model to predict their feedback
+2. Predict what changes can be made to improve their feedback
+3. Improve customer satisfaction
+### References
+Dharmavarapu H. R. S. S. S. S. Manikanth. (2020). Impact of the Online Customer Reviews in Consumer’s Food Ordering Decision for the Online Food Delivery Service Apps. International Journal of Advanced Science and Technology, 29(5s), 2692-2703. Retrieved from [http://sersc.org/journals/index.php/IJAST/article/view/22864](http://sersc.org/journals/index.php/IJAST/article/view/22864)
 
-
+Zippia. "18+ Food Delivery Statistics [2023]: Online Ordering Industry Numbers You Need To Know" Zippia.com. Feb. 28, 2023, [https://www.zippia.com/advice/food-delivery-industry-statistics/](https://www.zippia.com/advice/food-delivery-industry-statistics/)
