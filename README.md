@@ -8,3 +8,7 @@ The objective of this project is to develop a predictive model that optimise onl
 3. Girish Pranav
 ### Presentation
 The presentation video can be found [here] (insert link)
+### Files included
+1. onlinefoods.csv
+2. Mini Project Slides.pdf
+3. The objective of this project is to develop a predictive model that optimise online food order feedback by encouraging more positive ratings and minimise negative ratings. By analyzing various factors influencing customer feedback, the goal is to identify strategies to increase overall positive feedback rates on the platform.
