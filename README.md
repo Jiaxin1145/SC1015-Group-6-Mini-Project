@@ -62,3 +62,5 @@ Dharmavarapu H. R. S. S. S. S. Manikanth. (2020). Impact of the Online Customer 
 Zippia. 18+ Food Delivery Statistics (2023). Online Ordering Industry Numbers You Need To Know. Retrieved from [https://www.zippia.com/advice/food-delivery-industry-statistics/](https://www.zippia.com/advice/food-delivery-industry-statistics/)
 
 Sruthi, E. R. (2024). Understand Random Forest Algorithms With Examples. Retrieved from [https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
+
+Kanade, V. (2022). What Is Logistic Regression? Equation, Assumptions, Types, and Best Practices. Retrieved from [https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/)
