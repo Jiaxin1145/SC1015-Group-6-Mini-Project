@@ -15,4 +15,14 @@ The presentation video can be found [here] (insert link)
    - Data preparation and cleaning
    - Basic visualisation
    - Exploratory Data Analysis
-   - Machine Learning
+   - Machine Learning: Random Forest, Logistics Regression
+## Jupyter Notebook details
+### Data preparation and cleaning
+1. Remove duplicates, unnamed column and insignificant columns
+2. Check for null values
+3. Generate descriptive statistics for numerical columns
+4. Encoding categorical variables
+5. Upsampling
+
+
+
