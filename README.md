@@ -35,7 +35,6 @@ Logistics Regression
 3. Model evaluation
    - Confusion Matrix
    - recall, precision, f1 score
-
-
+## Conclusion
 
 
