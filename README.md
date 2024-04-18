@@ -29,6 +29,7 @@ Upsample, then Random Forest
 1. The Random Forest model shows moderate accuracy and true positive rate
 2. There is also a reduction in the discrepancy between the train and test datasets
 3. Reduced false positive rate from 1.0 to 0.381
+   
 Logistics Regression
 1. Train with categorical variables
 2. Average Accuracy: 83%
@@ -37,6 +38,7 @@ Logistics Regression
    - recall, precision, f1 score
 ## Conclusion
 Machine Learning Comparisons
+
 Random Forest
 - The models show moderate accuracy in predicting feedback with the numerical variables
 - Both age and family size models perform similarly, with no clear winner in predicting feedback given
