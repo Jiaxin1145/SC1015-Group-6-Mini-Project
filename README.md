@@ -46,7 +46,7 @@ Random Forest
 Logistics Regression
 - The has a high accuracy of approximately 83% on average. This indicates that the model generalises well to unseen data
 - The model ranks the importance of categorical predictors based on their coefficients
-- Precision for positive feedback is quite high at 86%
+- Precision for positive feedback is high at 86%
 ### What have we learnt from this project?
 1. Random Forest Model
 2. Justify the suitability of a model based on readings from classification report
