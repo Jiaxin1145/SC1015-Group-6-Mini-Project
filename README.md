@@ -40,6 +40,7 @@ Machine Learning Comparisons
 Random Forest
 - The models show moderate accuracy in predicting feedback with the numerical variables
 - Both age and family size models perform similarly, with no clear winner in predicting feedback given
+  
 Logistics Regression
 - The has a high accuracy of approximately 83% on average. This indicates that the model generalises well to unseen data
 - The model ranks the importance of categorical predictors based on their coefficients
