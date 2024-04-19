@@ -3,9 +3,9 @@ For our mini project in SC1015 Introduction to Data Science and Artificial Intel
 ### Problem Definition
 The objective of this project is to develop a predictive model that optimise online food order feedback by encouraging more positive ratings and minimise negative ratings. By analysing various factors influencing customer feedback, the goal is to identify strategies to increase overall positive feedback rates on the platform.
 ### Members (FCSI)
-1. Koh Jia Xin
-2. Mathew Alan Shilu
-3. Girish Pranav
+1. Koh Jia Xin (U2322256D)
+2. Mathew Alan Shilu (U2323425E)
+3. Girish Pranav (U2323962J)
 ### Presentation
 The presentation video can be found [here] (insert link)
 ### Files included
