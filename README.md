@@ -10,7 +10,7 @@ The objective of this project is to develop a predictive model that optimise onl
 The presentation video can be found [here] (insert link)
 ### Files included
 1. [onlinefoods.csv](https://github.com/Jiaxin1145/SC1015-Group-6-Mini-Project/blob/main/onlinefoods.csv)
-2. [Mini Project Slides.pdf]()
+2. [Mini Project Slides.pdf](https://github.com/Jiaxin1145/SC1015-Group-6-Mini-Project/blob/main/Mini%20Project%20Slides.pdf)
 3. [SC1015 Mini Project Group 6.ipynb](https://github.com/Jiaxin1145/SC1015-Group-6-Mini-Project/blob/main/SC1015%20Mini%20Project%20Group%206.ipynb)
    - Data preparation and cleaning
    - Exploratory Data Analysis
